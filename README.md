@@ -18,12 +18,12 @@
 ---
 
 ## 👨‍💻 About Me
-> [cite_start]Enthusiastic Computer Science graduate with a strong foundation in software development and cybersecurity[cite: 4, 29]. [cite_start]I specialize in building secure, database-driven applications[cite: 5].
+> Enthusiastic Computer Science graduate with a strong foundation in software development and cybersecurity. I specialize in building secure, database-driven applications and exploring system vulnerabilities.
 
-- [cite_start]🎓 **Education**: BTech in CSE-Cybersecurity from Geethanjali College of Engineering (8.20 CGPA)[cite: 29].
-- [cite_start]🛡️ **Cybersecurity**: Experienced in threat analysis and system vulnerability evaluation[cite: 19, 20].
-- [cite_start]☕ **Development**: Proficient in Java Full Stack development, including Spring Boot and React JS[cite: 13, 15, 16].
-- [cite_start]💬 **Ask me about**: OOP, SQL, or how I built a SHA-1 based password checker[cite: 11, 9, 25].
+- 🎓 **Education**: BTech in CSE-Cybersecurity from Geethanjali College of Engineering & Technology (8.20 CGPA).
+- 🛡️ **Cybersecurity**: Experienced in threat analysis, security evaluation, and vulnerability testing.
+- ☕ **Development**: Proficient in Java Full Stack development, including Spring Boot, React JS, and MySQL.
+- 💬 **Ask me about**: OOP, SQL, or how I built a SHA-1 based password checker for Chrome.
 
 ---
 
@@ -47,30 +47,29 @@
 
 ## 💼 Experience & Projects
 
-### 🏢 Experience
-- **Java Full Stack Intern** | [cite_start]*BrainOvision Solutions* [cite: 13, 14]
-  - [cite_start]Developed front-end components using React JS[cite: 15].
-  - [cite_start]Implemented backend logic using Java and Spring Boot[cite: 16].
-- **Cybersecurity Intern** | [cite_start]*Academor* [cite: 18]
-  - [cite_start]Performed exercises on system vulnerabilities and security evaluations[cite: 20].
+### 🏢 Work Experience
+- **Java Full Stack Intern** | *BrainOvision Solutions*
+  - Developed front-end components using React JS and explored Spring Boot for API development.
+- **Cybersecurity Intern** | *Academor*
+  - Performed practical exercises involving system vulnerabilities and threat analysis.
 
 ### 🚀 Featured Projects
-- [cite_start]🔐 **PwdScannerX**: A Chrome extension that uses the "Have I Been Pwned" API with SHA-1 hashing and k-Anonymity to check for password breaches safely.
-- [cite_start]🎓 **Student Record System**: A C-based management tool utilizing full CRUD operations and input validation for data integrity.
+- 🔐 **PwdScannerX**: A Chrome extension that uses the "Have I Been Pwned" API with SHA-1 hashing and k-Anonymity to check for password breaches safely.
+- 🎓 **Student Record System**: A C-based management tool featuring input validation and full CRUD operations for data integrity.
 
 ---
 
 ## 📜 Certifications
-- [cite_start]🏆 **Java Programming** - Oracle Academy [cite: 31]
-- [cite_start]🏆 **JavaScript** - Infosys Springboard [cite: 33]
-- [cite_start]🏆 **Introduction to MySQL** - Infosys Springboard [cite: 34]
+- 🏆 **Java Programming** - Oracle Academy
+- 🏆 **JavaScript** - Infosys Springboard
+- 🏆 **Introduction to MySQL** - Infosys Springboard
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hkg2704&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkg2704&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
