@@ -53,10 +53,10 @@
 </div>
 
 ## 👨‍💻 About Me
-> [cite_start]- 🌱 Enthusiastic **Computer Science graduate** with strong foundations in software development[cite: 4].
-> [cite_start]- 🔭 Currently focusing on **Java Full Stack** and **Cybersecurity**[cite: 13, 29].
-> [cite_start]- 💬 Ask me about **Java, Python, SQL**, or **System Vulnerabilities**[cite: 7, 9, 20].
-> [cite_start]- ✨ Passionate about building **database-driven applications** and **web technologies**[cite: 4, 5].
+> 🌱 Enthusiastic **Computer Science graduate** with strong foundations in software development.
+> 🔭 Currently focusing on **Java Full Stack** and **Cybersecurity**.
+> 💬 Ask me about **Java, Python, SQL**, or **System Vulnerabilities**.
+> ✨ Passionate about building **database-driven applications** and **web technologies**.
 
 ## 🛠 Skills & Certifications
 | Categories | Tools & Proficiency |
@@ -64,18 +64,18 @@
 | 👩‍💻 Languages | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
 | 🌐 Web | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | ⚡ Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) |
-| 🛡 Security | [cite_start]Threat Analysis, System Vulnerabilities, PwdScannerX [cite: 19, 20, 25] |
-| 📜 Certs | [cite_start]Java (Oracle), JS (Infosys), MySQL (Infosys) [cite: 31, 33, 34] |
+| 🛡 Security | Threat Analysis, System Vulnerabilities|
+| 📜 Certs | Java (Oracle), JS (Infosys), MySQL (Infosys)  |
 
 ## 💼 Experience & Projects
-* [cite_start]**Java Full Stack Intern** at BrainOvision Solutions: Practiced React JS and Spring Boot API development[cite: 13, 15, 16].
-* [cite_start]**Cybersecurity Intern** at Academor: Focused on threat analysis and security evaluation[cite: 18, 19, 20].
-* [cite_start]**PwdScannerX**: Chrome extension for password strength and breach detection using SHA-1 hashing[cite: 25].
-* [cite_start]**Student Record Management**: C-based application for managing student data with full CRUD functionality[cite: 25].
+* **Java Full Stack Intern** at BrainOvision Solutions: Practiced React JS and Spring Boot API development.
+* **Cybersecurity Intern** at Academor: Focused on threat analysis and security evaluation.
+* **PwdScannerX**: Chrome extension for password strength and breach detection using SHA-1 hashing.
+* **Student Record Management**: C-based application for managing student data with full CRUD functionality.
 
 ## 🎓 Education
-* **BTech (CSE-Cybersecurity)** | [cite_start]Geethanjali College of Engineering (CGPA: 8.20) [cite: 29]
-* **Intermediate** | [cite_start]Narayana Junior College (96.0%) [cite: 28]
+* **BTech (CSE-Cybersecurity)** | Geethanjali College of Engineering (CGPA: 8.20)
+* **Intermediate** | Narayana Junior College (96.0%)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
