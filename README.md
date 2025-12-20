@@ -51,13 +51,13 @@
 </div>
 
 </div>
-
+<!--
 ## 👨‍💻 About Me
 > 🌱 Enthusiastic **Computer Science graduate** with strong foundations in software development.
 > 🔭 Currently focusing on **Java Full Stack** and **Cybersecurity**.
 > 💬 Ask me about **Java, Python, SQL**, or **System Vulnerabilities**.
 > ✨ Passionate about building **database-driven applications** and **web technologies**.
-
+-->
 ## 🛠 Skills & Certifications
 | Categories | Tools & Proficiency |
 | ----------- | ----------- | 
